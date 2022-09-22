@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lorenzo Arrigoni from Italy
-- 👀 I’m interested in electronics, robotics and aeromodelling
-- 🌱 I’m currently learning C/C++
+- 👀 I’m interested in electronics, robotics, AI, 3D print and aeromodelling
+- 🌱 I’m currently learning C/C++, python
 - 💞️ I’m looking to collaborate on funny projects :-)
 - 📫 How to reach me: loarri@gmail.com
 <!---
